@@ -1,5 +1,27 @@
-# nbdev template
+# hello_nbdev
+> Summary description here.
 
-Use this template to more easily create your [nbdev](https://nbdev.fast.ai/) project.
 
-_If you are using an older version of this template, and want to upgrade to the theme-based version, see [this helper script](https://gist.github.com/hamelsmu/977e82a23dcd8dcff9058079cb4a8f18) (more explanation of what this means is contained in the link to the script)_.
+<h1>Table of Contents<span class="tocSkip"></span></h1>
+<div class="toc"><ul class="toc-item"><li><span><a href="#hello_nbdev" data-toc-modified-id="hello_nbdev-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>hello_nbdev</a></span><ul class="toc-item"><li><span><a href="#Install" data-toc-modified-id="Install-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Install</a></span></li><li><span><a href="#How-to-use" data-toc-modified-id="How-to-use-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>How to use</a></span></li></ul></li></ul></div>
+
+This file will become your README and also the index of your documentation.
+
+## Install
+
+`pip install hello_nbdev`
+
+## How to use
+
+Fill me in please! Don't forget code examples:
+
+```python
+say_hello('Jeremy')
+```
+
+
+
+
+    'Hello Jeremy!'
+
+
